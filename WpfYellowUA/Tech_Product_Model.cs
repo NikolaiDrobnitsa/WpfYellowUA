@@ -7,6 +7,7 @@ namespace WpfYellowUA
 
         private string _name;
         private int _price;
+        private int _img;
 
         public string Name
         {
